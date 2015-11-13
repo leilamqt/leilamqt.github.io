@@ -54,13 +54,20 @@ a {
 	text-align: center;
 }
 #nav {
-
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 }
 #logo {
 	height: 10vh;
 	width: 10vh;
 	border-radius: 40px;
 	margin: 0;
+}
+#welcome {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
 }
 .welcome {
 	color: #BDB76B;
@@ -71,8 +78,15 @@ a {
 #span {
 	text-transform: uppercase;
 }
-#reservation {
-	font-size: 3em;
+#menu {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+#reservation_location {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
 }
 #cheers {
 	height: 95vh;
@@ -88,4 +102,7 @@ a {
 	font-weight: 600;
 	padding: 1em o;
 	margin: 4em;
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 }
